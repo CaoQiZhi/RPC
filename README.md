@@ -6,8 +6,18 @@ We propose a novel yet effective knowledge distillation scheme which mimics an a
 ![Fig3](https://github.com/kbzhang0505/RPC/assets/97494153/b8c3019f-ee50-4ee0-9020-687832e2171a)
 # Response Correction Mechanism
 ![Fig5](https://github.com/kbzhang0505/RPC/assets/97494153/21fc38c7-4c07-484f-aab1-e49aed2c5c93)
+### Environment
+
+We verify our code on 
+* 1080Ti GPUs
+* CUDA 11.3
+* python 3.8
+* torch 1.11.0
+* torchvision 0..0
+
+Other similar envirouments should also work properly.
 ### Dataset Structure ###
-//For training, you need to build the new directory.
+For training, you need to build the new directory.
 
 *├─data 
 
