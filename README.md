@@ -27,7 +27,7 @@ For training, you need to build the new directory.
 ### Weights ###
 The weights of student models are available at https://pan.baidu.com/s/1d9CkeMjBfWEU3DPPXR8Pjg?pwd=0207.
 ### Citation ###
-If you find this code and data useful, please consider citing citing our paper:
+If you find this code and data useful, please consider citing our paper:
 ```
 @ARTICLE{10319075,
   author={Cao, Qizhi and Zhang, Kaibing and He, Xin and Shen, Junge},
