@@ -24,8 +24,7 @@ For training, you need to build the new directory.
 **└─Cifar100 
 
 *├─logs 
-### Weights ###
-The weights of student models are available at https://pan.baidu.com/s/1d9CkeMjBfWEU3DPPXR8Pjg?pwd=0207.
+
 ### Citation ###
 If you find this code and data useful, please consider citing our paper:
 ```
